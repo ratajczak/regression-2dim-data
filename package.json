@@ -1,0 +1,8 @@
+{
+  "name": "regression-2dim-data",
+  "version": "0.0.1",
+  "main": "./regression-2dim-data.js",
+  "dependencies": {
+    "convnetjs": "karpathy/convnetjs"
+  }
+}
